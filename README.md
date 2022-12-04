@@ -3,4 +3,4 @@ Data Science Survival Skills Homework 5 files can be found in this github reposi
 
 
 # Installing the Snowflake package
-To install the snowflake package on your own system, run 'pip install git+'https://github.com/shivamsingh-ml/DataScienceSurvivalSkills.git'.
+To install the snowflake package on your own system, run 'pip install git+https://github.com/shivamsingh-ml/DataScienceSurvivalSkills.git'.
